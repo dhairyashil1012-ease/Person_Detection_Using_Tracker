@@ -1,0 +1,11 @@
+opencv-python==4.13.0.92
+ultralytics==8.4.51
+numpy==2.4.6
+scikit-image==0.20.0
+filterpy==1.4.5
+lap==0.5.13
+
+
+# git clone https://github.com/abewley/sort/blob/master/sort.py
+
+# bash install.sh
